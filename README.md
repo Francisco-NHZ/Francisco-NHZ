@@ -139,7 +139,13 @@ data visualization and application logic.
 
 <div align="center">
 
+<a href="https://github.com/Francisco-NHZ">
+  <img height="180em" src="./profile/stats.svg" alt="Francisco's GitHub stats" />
+</a>
 
+<a href="https://github.com/Francisco-NHZ">
+  <img height="180em" src="./profile/top-langs.svg" alt="Top languages" />
+</a>
 
 <br><br>
 
