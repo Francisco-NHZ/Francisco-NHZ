@@ -37,7 +37,7 @@ jobs:
         with:
           username: Francisco-NHZ
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
 
       - name: Commit generated cards
         run: |
