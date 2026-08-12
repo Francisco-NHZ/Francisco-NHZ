@@ -154,6 +154,16 @@ data visualization and application logic.
 
 <div align="center">
 
+---
+
+## `> ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Francisco-NHZ&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
+
+</div>
+
 ### `SYSTEM STATUS`
 
 <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-ff2d95?style=flat-square" alt="Development active" />
