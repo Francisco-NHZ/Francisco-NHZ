@@ -126,7 +126,7 @@ and modular code organization.
 
 **Personal finance management application**
 
-`JavaScript` · `Tailwind CSS` · `Chart.js` · `Firebase`
+`JavaScript` · `Tailwind CSS` · `Chart.js` · `Firebase Firestore`
 
 A project focused on practical financial organization,
 data visualization and application logic.
@@ -157,9 +157,6 @@ data visualization and application logic.
 
 </div>
 
-
-</div>
-
 ---
 
 ## `> ACHIEVEMENTS`
@@ -178,7 +175,7 @@ data visualization and application logic.
 
 <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-ff2d95?style=flat-square" alt="Development active" />
 <img src="https://img.shields.io/badge/LEARNING-JAVASCRIPT-8b5cf6?style=flat-square" alt="Learning JavaScript" />
-<img src="https://img.shields.io/badge/BUILDING-NHZ-06b6d4?style=flat-square" alt="Building NHZ" />
+<img src="https://img.shields.io/badge/BUILDING-NHZ-06b6d4?style=flat-square" alt="Building NHZ WebSolutions" />
 
 <br><br>
 
