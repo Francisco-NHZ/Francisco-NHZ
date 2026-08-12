@@ -135,6 +135,29 @@ data visualization and application logic.
 
 ---
 
+## `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<a href="https://github.com/Francisco-NHZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-NHZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Francisco's GitHub stats" />
+</a>
+
+<a href="https://github.com/Francisco-NHZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-NHZ&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Francisco-NHZ&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Francisco-NHZ&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+
 <div align="center">
 
 ### `SYSTEM STATUS`
