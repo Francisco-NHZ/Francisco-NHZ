@@ -152,7 +152,7 @@ data visualization and application logic.
 </div>
 
 
-<div align="center">
+</div>
 
 ---
 
@@ -160,11 +160,15 @@ data visualization and application logic.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Francisco-NHZ&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
+<!-- TROPHIES WILL BE ADDED HERE -->
 
 </div>
 
-### `SYSTEM STATUS`
+---
+
+## `> SYSTEM STATUS`
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-ff2d95?style=flat-square" alt="Development active" />
 <img src="https://img.shields.io/badge/LEARNING-JAVASCRIPT-8b5cf6?style=flat-square" alt="Learning JavaScript" />
