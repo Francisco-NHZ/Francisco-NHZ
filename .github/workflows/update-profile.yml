@@ -35,9 +35,9 @@ jobs:
       - name: Generate GitHub Profile Trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: Francisco-NHZ
+          username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
         run: |
