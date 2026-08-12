@@ -139,13 +139,7 @@ data visualization and application logic.
 
 <div align="center">
 
-<a href="https://github.com/Francisco-NHZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-NHZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Francisco's GitHub stats" />
-</a>
 
-<a href="https://github.com/Francisco-NHZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-NHZ&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
-</a>
 
 <br><br>
 
