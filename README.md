@@ -163,7 +163,7 @@ data visualization and application logic.
 
 <div align="center">
 
-<!-- TROPHIES WILL BE ADDED HERE -->
+<img src="./profile/trophy.svg" alt="GitHub Profile Trophies" />
 
 </div>
 
