@@ -159,6 +159,20 @@ data visualization and application logic.
 
 ---
 
+## `> CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+  <img src="./profile/snake.svg" alt="GitHub Contribution Snake" />
+</picture>
+
+</div>
+
+---
+
 ## `> ACHIEVEMENTS`
 
 <div align="center">
